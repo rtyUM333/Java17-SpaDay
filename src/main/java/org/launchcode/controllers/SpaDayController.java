@@ -31,7 +31,7 @@ public class SpaDayController {
                 "Name: <br>" +
                 "<input type = 'text' name = 'name'>" +
                 "<br>Skin type: <br>" +
-                "<select name = 'skintype'>" +
+                "<select name = 'Blah'>" +
                 "<option value = 'oily'>Oily</option>" +
                 "<option value = 'combination'>Combination</option>" +
                 "<option value = 'normal'>Normal</option>" +
